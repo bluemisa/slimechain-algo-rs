@@ -1,0 +1,7 @@
+{
+  "coordination": 0.6,
+  "clustering": 0.5,
+  "burst": 0.3,
+  "monotonicity": 0.2,
+  "abuse_history": 0.1
+}

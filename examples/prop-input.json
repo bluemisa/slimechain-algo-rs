@@ -1,0 +1,6 @@
+{
+  "risk_signals": {
+    "coordination": 0.8,
+    "clustering": 0.7
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "actor": {
+    "rl": 120.0,
+    "q": 0.82,
+    "ef": 28.3,
+    "posts_1h": 12.0
+  },
+  "content": {
+    "is_claim": true,
+    "has_evidence": false,
+    "risk_signals": {
+      "coordination": 0.5,
+      "clustering": 0.4
+    }
+  },
+  "base_fare": 1.0
+}

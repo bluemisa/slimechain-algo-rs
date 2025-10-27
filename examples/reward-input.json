@@ -1,0 +1,7 @@
+{
+  "ticket_budget": 1.5,
+  "client_q": 0.8,
+  "size_bytes": 25000,
+  "ttfb_ms": 150,
+  "server_cluster_risk": 0.3
+}

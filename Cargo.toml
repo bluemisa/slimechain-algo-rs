@@ -1,0 +1,18 @@
+[package]
+name = "slimechain-algo"
+version = "1.0.0"
+edition = "2021"
+description = "SlimeChain core algorithms in Rust (q/EF, Risk, DPP cost, RWP/TFR, PoR/S reward, basefare)."
+license = "MIT"
+repository = ""
+
+[lib]
+path = "src/lib.rs"
+
+[[bin]]
+name = "slimechain-algo"
+path = "src/bin/slimechain-algo.rs"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
